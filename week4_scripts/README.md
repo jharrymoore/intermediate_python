@@ -36,3 +36,4 @@ Introduction:
 
 
 * Going deeper into the argparse library
+  * Positional arguments, defaults, data types, actions
