@@ -10,7 +10,7 @@ Schedule:
 * Week 6-8: End-2-end ML project
     * Week 6: Introduction to a standard ML pipeline
     * Week 7: build an ML pipeline and training models using sklearn (e.g logistic regression, random forest)  
-    * Week 8: Neural Networks from scratch 
+    * Week 8: build an application to visualise and interact with your machine learning models 
 
 
 Technical Notes
