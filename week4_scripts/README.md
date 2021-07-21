@@ -26,7 +26,7 @@ Introduction:
 
 * Passing arguments from the command line with `sys.argv`
 
-## Exercise 1: Write and execute a program that takes some numbers as arguments and calculates their sum
+## Exercise 1: Write and execute a program that takes some numbers as arguments from the command line and calculates their sum
 
 
 * Argparse: A library for parsing arguments
@@ -37,3 +37,6 @@ Introduction:
 
 * Going deeper into the argparse library
   * Positional arguments, defaults, data types, actions
+  
+## Exercise 3/homework: Write a script that takes the path (or url) to the metabric dataset we used earlier in the course, read it in using pandas, and print some summary statistics
+
