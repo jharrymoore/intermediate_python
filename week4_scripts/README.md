@@ -13,30 +13,34 @@ Some prerequisites:
 * Install PyCharm community and Python 3.9 from the software store
 * Follow the installation instructions documentation in this folder to get up and running
 
-### Writing Python scripts from scratch
+## Writing Python scripts from scratch
 
-Introduction:
+### Introduction:
 * Setting up your folder
 * Creating an isolated virtual environment
-* Installing some packages
+* Installing some packages: scipy, scikit-learn, matplotlib, numpy, pandas
 * Creating and editing files in PyCharm
 * Running your program from a terminal
 
-* 'Hello World' as a standalone program
+### 'Hello World' as a standalone program
 
-* Passing arguments from the command line with `sys.argv`
+* Exercise 1: write a standalone python script that takes two random numbers and returns their product
 
-## Exercise 1: Write and execute a program that takes some numbers as arguments from the command line and calculates their sum
+### Passing arguments from the command line with `sys.argv`
 
+* Exercise 2: Write and execute a program that takes some numbers as arguments from the command line and calculates their sum
 
-* Argparse: A library for parsing arguments
-
-
-## Exercise 2: Use the argparse library to pass two numbers to your `main` function and return their average
+### Argparse: A library for parsing arguments
 
 
-* Going deeper into the argparse library
+* Exercise 3: Use the argparse library to pass two numbers to your `main` function and return their average
+
+
+### Going deeper into the argparse library
   * Positional arguments, defaults, data types, actions
   
-## Exercise 3/homework: Write a script that takes the path (or url) to the metabric dataset we used earlier in the course, read it in using pandas, and print some summary statistics
+* Exercise 4: Write a script that takes the path (or url) to the metabric dataset we used earlier in the course, read it in using pandas, and print some summary statistics (the data can be found here
+  https://raw.githubusercontent.com/AstraZeneca-Code-Club/intermediate_python/main/metabric_clinical_and_expression_data.csv)
+
+* Exercise 5/Extension/Homework: Extend the function you wrote above to add a seaborn plot 
 
