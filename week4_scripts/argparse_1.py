@@ -1,5 +1,4 @@
 # This script accepts some arguments passed from the command line
-import numpy as np
 import argparse
 
 def main(num1, num2):
